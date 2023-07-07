@@ -1,0 +1,2 @@
+# LatinNERData
+This repository contains the data linked to the anonymous submission within the RANLP2023 conference. It is meant for reviewers to consult. It contains GOLD data for NER (manually annotated), and the results of running the LatinBERT2 model (as described in the paper) on the entire LASLA corpus (folder "Silver data"). If the paper is published, the data will be moved to a non-anonymous repository and undergo minor adjustments.
