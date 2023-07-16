@@ -1,0 +1,7 @@
+LatinNERData/* filter=lfs diff=lfs merge=lfs -text
+code;/* filter=lfs diff=lfs merge=lfs -text
+code/* filter=lfs diff=lfs merge=lfs -text
+code/Herodotos_trained_lat_BERT_hypopt_params filter=lfs diff=lfs merge=lfs -text
+code/Herodotos_trained_lat_BERT_worked filter=lfs diff=lfs merge=lfs -text
+code/Herodotos_trained_lat_BERT_worked/* filter=lfs diff=lfs merge=lfs -text
+code/Herodotos_trained_lat_BERT_hypopt_params/* filter=lfs diff=lfs merge=lfs -text
